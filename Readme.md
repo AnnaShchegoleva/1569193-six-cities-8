@@ -1,7 +1,7 @@
-# Личный проект «Шесть городов»
+# Personal project «Six cities»
 
-* Студент: [Щеголева Анна](https://up.htmlacademy.ru/react/8/user/1569193).
-* Наставник: `Неизвестно`.
+"Six Cities" is a service for travelers who do not want to overpay for rent. Choose from six popular travel cities and get a up-to-date list of rental deals. Detailed information about housing, showing the object on the map, as well as a laconic service interface will help you quickly choose the optimal offer.
+
 
 ---
 
